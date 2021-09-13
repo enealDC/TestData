@@ -1,0 +1,6 @@
+﻿"data_source","correlation_id","ram","disk_space","name","model_number","model_id_id","manufacturer_id","cpu_manufacturer_id","cpu_speed","cpu_count","last_logged_in_user","serial_number","last_discovered","data_token","is_deleted"
+"SNOW","10884798c61122750108b095e21e4080","0","","San Diego Gateway","924e","11997131030191","4388","","","-1","","NULL","","7932496990","false"
+"SNOW","108a9205c611227500786e160f9d343e","0","","DataNoc.gw01.lanset.net","924e","11997131030191","4388","","","-1","","NULL","","7932496990","false"
+"SNOW","55b35562c0a8010e01cff22378e0aea9","0","","ny8500-nbxs08","","","5220","","","-1","","NULL","","7932496990","false"
+"SNOW","55b37e80c0a8010e00028a1d1a14e2d7","0","","ny8500-nbxs09","","","5220","","","-1","","NULL","","7932496990","false"
+"SNOW","60cc6f8cc0a8010e00161f4f6e55beea","0","","nc6500-a01","","","5220","","","-1","","NULL","","7932496990","false"
